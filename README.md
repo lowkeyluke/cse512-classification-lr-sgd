@@ -1,2 +1,4 @@
 # LogisticRegression
-Using logistic regression with Stochastic Gradient Descent (SGD) to classify images (from Kaggle competition database) as hand or not-hand.
+(a CSE512 HW Assignment) 
+Given: images (from Kaggle competition DB) 
+Task: use logistic regression (with SGD (stochastic gradient descent)) to classify the images as 'hand' or 'not-hand'
